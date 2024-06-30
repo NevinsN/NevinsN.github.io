@@ -1,0 +1,3 @@
+mongodb+srv://playerClient:SlMK9ptcZJcn34oc@gothicswinedb.xogt6d5.mongodb.net/?retryWrites=true&w=majority&appName=GothicSwineDB
+
+cluster = MongoClient("mongodb+srv://TGNiklaus:H00p3rman@gothicswinedb.xogt6d5.mongodb.net/?retryWrites=true&w=majority&appName=GothicSwineDB")
